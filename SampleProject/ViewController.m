@@ -22,7 +22,6 @@
     
     NSLog(@"Implemented Local Notification");
     
-    
 }
 
 - (void)didReceiveMemoryWarning
