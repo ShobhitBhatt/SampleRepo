@@ -22,8 +22,6 @@
     
     NSLog(@"Implemented Local Notification");
     
-    NSLog(@"jira task id");
-
 }
 
 - (void)didReceiveMemoryWarning
