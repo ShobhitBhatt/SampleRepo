@@ -19,7 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     NSLog(@"Test");
-    
+     
        
     NSLog(@"Implemented Local Notification"); 
                             
